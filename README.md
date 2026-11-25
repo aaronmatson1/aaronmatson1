@@ -18,7 +18,7 @@ Full-stack web developer at **Gabb Wireless** in Lehi, UT. I build e-commerce st
 | [Bingo Dashboard](https://github.com/aaronmatson1/bingo-dashboard) | Real-time multiplayer with Vue + Socket.io, host/player views |
 | [local-whisper](https://github.com/aaronmatson1/wispr) | Local push-to-talk dictation for macOS; audio never leaves the machine |
 | [Commit Potato](https://github.com/aaronmatson1/Potato) | VS Code extension built on the Git extension API |
-| [Gabb Pinball](https://github.com/aaronmatson1/gabb-pinball) | Browser pinball game in Phaser 3 + Vite + TypeScript |
+| [Gabb Pinball](https://github.com/aaronmatson1/gabb-pinball) | Browser pinball game with Matter.js physics + Vite + TypeScript |
 
 ### Get in touch
 [aaronmatson.com](https://www.aaronmatson.com) · [LinkedIn](https://www.linkedin.com/in/aaronmatson1/)
