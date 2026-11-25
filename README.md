@@ -1,10 +1,22 @@
-### Hey there! My name is Aaron!
+## Aaron Matson
 
-- 🌱 I’m currently learning Full-Stack Web Development
-- 🔭 I’m currently working on A marketplace application.
-- 👯 I’m looking to collaborate on React.js projects
-- 🤔 I’m looking for help with Python and algorythms
-- 💬 Ask me anything! But if you wanna talk Utah Jazz basketball, we can do that too.
-- ⚡ Fun fact: People always tell me that I look like Chris Pratt. And I take it as a compliment.
-- If you'd like to get in touch, message me through [LinkedIn](https://www.linkedin.com/in/aaronmatson1/)
+Full-stack web developer at **Gabb Wireless** in Lehi, UT. I build e-commerce storefronts, checkout flows, and the AI tooling my team uses to ship them faster.
 
+**Stack:** TypeScript · Vue · Astro · Node/Express · Python · Postgres · GitHub Actions · Claude API
+
+### What I'm working on
+- **AI-assisted dev pipeline:** a multi-agent setup (coding, QA, and security-review agents) that takes a Jira ticket to a reviewed merge request
+- **Understudii:** a mentorship network I'm building with a small founding team
+- **E-commerce at Gabb:** storefront, cart, and checkout work in Vue and Astro, plus technical SEO and analytics instrumentation
+
+### Featured projects
+| Project | What it shows |
+|---|---|
+| [AI Quiz Builder](https://github.com/aaronmatson1/Entrata-Technical) | Vue 3 + TS on Vercel; Claude Haiku/Sonnet with forced tool calls, Wikipedia grounding, CI on every push |
+| [Bingo Dashboard](https://github.com/aaronmatson1/bingo-dashboard) | Real-time multiplayer with Vue + Socket.io, host/player views |
+| [local-whisper](https://github.com/aaronmatson1/wispr) | Local push-to-talk dictation for macOS; audio never leaves the machine |
+| [Commit Potato](https://github.com/aaronmatson1/Potato) | VS Code extension built on the Git extension API |
+| [Gabb Pinball](https://github.com/aaronmatson1/gabb-pinball) | Browser pinball game in Phaser 3 + Vite + TypeScript |
+
+### Get in touch
+[aaronmatson.com](https://www.aaronmatson.com) · [LinkedIn](https://www.linkedin.com/in/aaronmatson1/)
