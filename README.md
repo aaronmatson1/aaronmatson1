@@ -12,6 +12,8 @@ Full-stack web developer at **Gabb Wireless** in Lehi, UT. I build e-commerce st
 ### Featured projects
 | Project | What it shows |
 |---|---|
+| [matson-claude-toolkit](https://github.com/aaronmatson1/matson-claude-toolkit) | Portable Claude Code toolkit: 19 specialist agents, skills, and an installer that follows me job to job |
+| [Tee-Time](https://github.com/aaronmatson1/Tee-Time) | Tee-time finder: scraper worker, Supabase, email + web-push alerts when a slot opens |
 | [AI Quiz Builder](https://github.com/aaronmatson1/Entrata-Technical) | Vue 3 + TS on Vercel; Claude Haiku/Sonnet with forced tool calls, Wikipedia grounding, CI on every push |
 | [Bingo Dashboard](https://github.com/aaronmatson1/bingo-dashboard) | Real-time multiplayer with Vue + Socket.io, host/player views |
 | [local-whisper](https://github.com/aaronmatson1/wispr) | Local push-to-talk dictation for macOS; audio never leaves the machine |
